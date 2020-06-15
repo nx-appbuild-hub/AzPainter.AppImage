@@ -1,0 +1,1 @@
+# AzPainter.AppImage
